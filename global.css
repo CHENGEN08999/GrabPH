@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* Fonts */
+  --font-grab-community-solid-en: "Grab Community Solid EN";
+
+  /* font sizes */
+  --font-size-4xs: 9px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-3xl: 22px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-darkslategray: #005339;
+  --color-forestgreen: #00b14f;
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-10xs: 3px;
+  --gap-4xs: 9px;
+  --gap-3xs: 10px;
+  --gap-3xl: 22px;
+  --gap-13xl: 32px;
+  --gap-87xl: 106px;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+  --padding-5xs: 8px;
+  --padding-3xs: 10px;
+  --padding-sm: 14px;
+  --padding-mini: 15px;
+  --padding-14xl: 33px;
+  --padding-18xl: 37px;
+  --padding-19xl: 38px;
+  --padding-30xl: 49px;
+  --padding-34xl: 53px;
+
+  /* Border radiuses */
+  --br-2xl: 21px;
+  --br-11xl: 30px;
+}
